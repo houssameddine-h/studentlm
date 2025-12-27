@@ -6,7 +6,7 @@ A simple Retrieval-Augmented Generation (RAG) application that allows users to u
 
 ## Presentation video
 
-[StudentLM presentation video](https://drive.google.com/file/d/1ci_Or7Re_Zo2IVB2MsfNtIhNy2geHyx0/view?usp=sharing)
+[![StudentLM presentation video](/assets/rag_video_presentation.png)](https://drive.google.com/file/d/1ci_Or7Re_Zo2IVB2MsfNtIhNy2geHyx0/view?usp=sharing)
 
 ## Architecture
 
