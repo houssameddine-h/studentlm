@@ -5,9 +5,8 @@ A simple Retrieval-Augmented Generation (RAG) application that allows users to u
 ![RAG Pipeline](https://img.shields.io/badge/RAG-Pipeline-blue) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![LangChain](https://img.shields.io/badge/🦜_LangChain-Enabled-green)
 
 ## Presentation video
-<video src="/assets/rag_presentation_video.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
+
+[StudentLM presentation video](https://drive.google.com/file/d/1ci_Or7Re_Zo2IVB2MsfNtIhNy2geHyx0/view?usp=sharing)
 
 ## Architecture
 
